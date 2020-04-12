@@ -7,7 +7,7 @@ public class TestJenkins
 	{
 		System.out.println(System.getProperty("user.dir"));
 		
-		for(int i=1; i<=50; i++)
+		for(int i=1; i<=20; i++)
 		{
 			System.out.println("-------->>> Success: Jenkins is Integrated with Java....!!!");
 		}
