@@ -9,7 +9,7 @@ public class TestJenkins
 		
 		for(int i=1; i<=10; i++)
 		{
-			System.out.println(">>> Success: Jenkins is Integrated with Java....!!!");
+			System.out.println("-------->>> Success: Jenkins is Integrated with Java....!!!");
 		}
 		
 	}
